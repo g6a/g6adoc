@@ -13,3 +13,7 @@ https://github.com/rapid7/metasploit-framework/blob/cac890a797d0d770260074dfe703
 
 ### metasploit-framework/data/wmap/
 https://github.com/rapid7/metasploit-framework/tree/cac890a797d0d770260074dfe703eb5cfb63bd46/data/wmap
+
+### DefenseCode ThunderScan SAST Advisory
+### Apache Tomcat Directory/Path Traversal
+http://defensecode.com/advisories/DC-2017-03-001_DefenseCode_ThunderScan_SAST_Apache_Tomcat_Security_Advisory.pdf
