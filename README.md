@@ -17,3 +17,6 @@ https://github.com/rapid7/metasploit-framework/tree/cac890a797d0d770260074dfe703
 ### DefenseCode ThunderScan SAST Advisory
 ### Apache Tomcat Directory/Path Traversal
 http://defensecode.com/advisories/DC-2017-03-001_DefenseCode_ThunderScan_SAST_Apache_Tomcat_Security_Advisory.pdf
+
+
+http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/course-info.aspx?id=8%27%20union%20select%201%27
