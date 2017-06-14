@@ -21,8 +21,11 @@ http://defensecode.com/advisories/DC-2017-03-001_DefenseCode_ThunderScan_SAST_Ap
 
 http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/course-info.aspx?id=8%27%20union%20select%201%27
 
+
 ======
+
 MSSQL SQL Injection
+
 ======
 http://blog.harryadinanta.com/exploit/Using-sqlmap-to-exploit-sql-injection-running-on-top-of-ASP-NET-and-MSSQL-2012/
 http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet
