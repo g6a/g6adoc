@@ -21,6 +21,8 @@ http://defensecode.com/advisories/DC-2017-03-001_DefenseCode_ThunderScan_SAST_Ap
 
 http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/course-info.aspx?id=8%27%20union%20select%201%27
 
+0921
+https://securityonline.info/apache-tomcat-remote-code-execution-vulnerability/
 
 ======
 
@@ -28,14 +30,24 @@ MSSQL SQL Injection
 
 ======
 http://blog.harryadinanta.com/exploit/Using-sqlmap-to-exploit-sql-injection-running-on-top-of-ASP-NET-and-MSSQL-2012/
+
 http://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet
+
 https://www.exploit-db.com/papers/12975/
+
 https://www.owasp.org/index.php/Blind_SQL_Injection
+
 http://securityidiots.com/Web-Pentest/SQL-Injection/MSSQL/MSSQL-Union-Based-Injection.html
+
 https://upshell.wordpress.com/2011/06/11/mssql-tips-sql-injection/
+
 http://www.sqlinjectionwiki.com/categories/1/mssql-sql-injection-cheat-sheet/
+
 https://technet.microsoft.com/zh-tw/library/cc512676.aspx
+
 https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-alonso-parada.pdf
+
 https://www.slideshare.net/chemai64/timebased-blind-sql-injection-using-heavy-queries-34887073
+
 http://www.hexatier.com/time-based-blind-sql-injection/
 
