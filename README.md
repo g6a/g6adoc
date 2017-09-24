@@ -22,9 +22,11 @@ http://defensecode.com/advisories/DC-2017-03-001_DefenseCode_ThunderScan_SAST_Ap
 http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/course-info.aspx?id=8%27%20union%20select%201%27
 
 0921
+
 tomcat 7.0.X exploit
 
 https://securityonline.info/apache-tomcat-remote-code-execution-vulnerability/
+
 https://github.com/breaktoprotect/CVE-2017-12615
 
 ======
